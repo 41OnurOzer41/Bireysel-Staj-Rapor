@@ -15,5 +15,4 @@
 
 
 
-![This is an image](C:\Users\lenovo\Desktop\staj  ekran alıntıları\kent meydanın da yapılanlar\20220725_120716)
 
