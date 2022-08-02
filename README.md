@@ -12,3 +12,8 @@
 -----------------------------------3.Hafta-------------------------------------------------
 -->Belediyeye bağlı Arapçeşmedeki binaya gidildi,switch değiştirildi,Access point takıldı,Kart okuyucuya kablo çekildi,kablolara ethernet ucu çakıldı,binadaki pclerin ip adresleri otomatikleştirildi,
 ---Renk kodu:Turuncu-Beyaz,Turuncu,Yeşil-Beyaz,Mavi,Mavi-Beyaz,Yeşil,Kahverengi-Beyaz,Kahverengi
+
+
+
+![This is an image](C:\Users\lenovo\Desktop\staj  ekran alıntıları\kent meydanın da yapılanlar\20220725_120716)
+
