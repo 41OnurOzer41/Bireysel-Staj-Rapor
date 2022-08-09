@@ -1,6 +1,6 @@
 # Bireysel-Staj-Rapor
 
-### 1-2.Hafta
+                                               ### 1-2.Hafta
 #### -->Ubuntu server kuruldu.
 #### -->Apache2 server kuruldu.
 
@@ -28,11 +28,11 @@
 ![image](https://user-images.githubusercontent.com/88130984/183599565-18c938cb-9da2-4d66-9a1c-d4750a4e91c3.png)
 
 #### -->kent meydanında switch değiştirildi ,Access point takıldı ;Metin abi ile. 
-### 3.Hafta
+                                               ### 3.Hafta
 #### -->Belediyeye bağlı Arapçeşmedeki binaya gidildi,switch değiştirildi,Access point takıldı,Kart okuyucuya kablo çekildi,kablolara ethernet ucu çakıldı,binadaki pclerin ip adresleri otomatikleştirildi,
 #### -->Renk kodu:Turuncu-Beyaz,Turuncu,Yeşil-Beyaz,Mavi,Mavi-Beyaz,Yeşil,Kahverengi-Beyaz,Kahverengi
 #### -->Diğer stajyerlere phpmyadmin,veritabanı taraflarında bildiğim kadar yardım ettim.
-### 4.Hafta
+                                               ### 4.Hafta
 #### -->ssh key oluşturuldu. (ssh-keygen -t rsa)
 
 ![image](https://user-images.githubusercontent.com/88130984/183594977-5b736d81-2d84-4efb-859a-0542ecf485bf.png)
