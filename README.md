@@ -3,6 +3,9 @@
 ### 1-2.Hafta
 #### -->Ubuntu server kuruldu.
 #### -->Apache2 server kuruldu.
+
+![image](https://user-images.githubusercontent.com/88130984/183596904-dc268104-2ede-42b7-9ebe-13a02af8f879.png)
+
 #### -->Mysql server kuruldu.
 #### -->Mysql kullanıcıları oluşturuldu.
 #### -->Ftp server kuruldu.
