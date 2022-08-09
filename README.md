@@ -15,10 +15,10 @@
 #### -->Ftp server kuruldu.
 ![image](https://user-images.githubusercontent.com/88130984/183597440-e028145c-f0a2-4033-bb10-66eda986f465.PNG)
 
-#### -->10.41.5.89/phpmyadmin  yazınca phpmyadmine ulaşılıyor.
+#### -->10.41.5.73/phpmyadmin  yazınca phpmyadmine ulaşılıyor.
 ![image](https://user-images.githubusercontent.com/88130984/183598404-551e2772-cee5-4867-a979-6743ea7eea6d.png)
 
-#### -->ftp ile demo site alındı,10.41.5.89/navbar.html  ile demo siteye ulaşım sağlandı.
+#### -->ftp ile demo site alındı,10.41.5.73/index.html  ile demo siteye ulaşım sağlandı.
 ![image](https://user-images.githubusercontent.com/88130984/183597558-824c23bb-4f3d-450c-a678-ac32faadff94.png)
 
 #### -->generatedata.com sitesinden demo veritabanı oluşturuldu phpmyadmine içe aktarıldı.
