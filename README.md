@@ -31,6 +31,7 @@
                                                3.Hafta
 #### -->Belediyeye bağlı Arapçeşmedeki binaya gidildi,switch değiştirildi,Access point takıldı,Kart okuyucuya kablo çekildi,kablolara ethernet ucu çakıldı,binadaki pclerin ip adresleri otomatikleştirildi,
 #### -->Renk kodu:Turuncu-Beyaz,Turuncu,Yeşil-Beyaz,Mavi,Mavi-Beyaz,Yeşil,Kahverengi-Beyaz,Kahverengi
+#### -->Dns ayarlanmaya çalışıldı yapılamadı.
 #### -->Diğer stajyerlere phpmyadmin,veritabanı taraflarında bildiğim kadar yardım ettim.
                                                4.Hafta
 #### -->ssh key oluşturuldu. (ssh-keygen -t rsa)
