@@ -22,6 +22,8 @@
 ![image](https://user-images.githubusercontent.com/88130984/183597558-824c23bb-4f3d-450c-a678-ac32faadff94.png)
 
 #### -->generatedata.com sitesinden demo veritabanı oluşturuldu phpmyadmine içe aktarıldı.
+![image](https://user-images.githubusercontent.com/88130984/183599565-18c938cb-9da2-4d66-9a1c-d4750a4e91c3.png)
+
 #### -->kent meydanında switch değiştirildi ,Access point takıldı ;Metin abi ile. 
 ### 3.Hafta
 #### -->Belediyeye bağlı Arapçeşmedeki binaya gidildi,switch değiştirildi,Access point takıldı,Kart okuyucuya kablo çekildi,kablolara ethernet ucu çakıldı,binadaki pclerin ip adresleri otomatikleştirildi,
