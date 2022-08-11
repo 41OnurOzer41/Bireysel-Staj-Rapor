@@ -49,6 +49,9 @@ https://www.yusufsezer.com.tr/linux-apache-server-kurulumu-ve-ayarlari/
 ![image](https://user-images.githubusercontent.com/88130984/183594977-5b736d81-2d84-4efb-859a-0542ecf485bf.png)
 
 #### -->sftp araştırıldı.
+
+https://www.nesildc.com/blog/sftp-nedir-ve-farklari-nelerdir
+
 #### -->ssl sertifikası araştırıldı.
 
 
