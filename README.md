@@ -7,6 +7,10 @@ https://kadirkozan.com.tr/ubuntu-server-20-04-lts-kurulumu/
 
 #### -->Apache2 server kuruldu.
 
+https://www.yusufsezer.com.tr/linux-apache-server-kurulumu-ve-ayarlari/
+
+
+
 ![image](https://user-images.githubusercontent.com/88130984/183596904-dc268104-2ede-42b7-9ebe-13a02af8f879.png)
 
 #### -->Mysql server kuruldu.
