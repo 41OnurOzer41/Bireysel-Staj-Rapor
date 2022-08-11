@@ -29,6 +29,7 @@ https://www.yusufsezer.com.tr/linux-apache-server-kurulumu-ve-ayarlari/
 ![image](https://user-images.githubusercontent.com/88130984/183598404-551e2772-cee5-4867-a979-6743ea7eea6d.png)
 
 #### -->filezilla ile sunucuya demo site yüklendi.
+https://filezilla-project.org/  fillezilla yükleme sitesi.
 ![image](https://user-images.githubusercontent.com/88130984/183600092-d739f813-50fb-48aa-9c10-2e771a150896.PNG)
 
 #### -->ftp ile demo site alındı,10.41.5.73/index.html  ile demo siteye ulaşım sağlandı.
