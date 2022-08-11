@@ -52,7 +52,10 @@ https://www.yusufsezer.com.tr/linux-apache-server-kurulumu-ve-ayarlari/
 
 https://www.nesildc.com/blog/sftp-nedir-ve-farklari-nelerdir
 
+https://www.youtube.com/watch?v=Wm9N6SpAsqA&t=1s
+
 #### -->ssl sertifikası araştırıldı.
+https://www.kaspersky.com.tr/resource-center/definitions/what-is-a-ssl-certificate
 
 
 
