@@ -36,6 +36,8 @@ https://filezilla-project.org/  fillezilla yükleme sitesi.
 ![image](https://user-images.githubusercontent.com/88130984/183597558-824c23bb-4f3d-450c-a678-ac32faadff94.png)
 
 #### -->generatedata.com sitesinden demo veritabanı oluşturuldu phpmyadmine içe aktarıldı.
+https://generatedata.com/generator
+
 ![image](https://user-images.githubusercontent.com/88130984/183599565-18c938cb-9da2-4d66-9a1c-d4750a4e91c3.png)
 
 #### -->kent meydanında switch değiştirildi ,Access point takıldı ;Metin abi ile. 
