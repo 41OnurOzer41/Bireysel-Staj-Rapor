@@ -60,5 +60,7 @@ https://www.youtube.com/watch?v=Wm9N6SpAsqA&t=1s
 #### -->ssl sertifikası araştırıldı.
 https://www.kaspersky.com.tr/resource-center/definitions/what-is-a-ssl-certificate
 
+                                               5.Hafta
+#### -->Tinkercad kullanılarak yapılan Arduino çalışması Akıllı Ev Otomasyonu.
 
-
+![image](https://user-images.githubusercontent.com/88130984/185563788-e5559a99-77c8-4cfc-a370-e2f6e6bbee3f.png)
